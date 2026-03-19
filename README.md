@@ -1,16 +1,18 @@
 # 📱 My Profile App — MVVM Edition
 
 <p align="center">
-  <img src="screenshots/screenshot_1.png" width="180" style="border-radius:12px"/>
+   <img width="150" height="1280" alt="Image" src="https://github.com/user-attachments/assets/7f868aec-b0fa-4fb9-9626-0bd698f52b25" />
+  &nbsp;&nbsp; 
+  <img width="150" height="1280" alt="Image" src="https://github.com/user-attachments/assets/cbbc1397-a1d5-49f3-9977-d36ed877296f" />
   &nbsp;&nbsp;
-  <img src="screenshots/screenshot_2.png" width="180" style="border-radius:12px"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/screenshot_3.png" width="180" style="border-radius:12px"/>
+ <img width="150" height="1356" alt="Image" src="https://github.com/user-attachments/assets/b218fd6c-2104-4bec-b03a-2f051a85e842" /> 
 </p>
 <p align="center">
-  <img src="screenshots/screenshot_4.png" width="180" style="border-radius:12px"/>
+  <img width="150" height="1280" alt="Image" src="https://github.com/user-attachments/assets/326aa006-55a5-46a4-892c-913faf2191e2" />
   &nbsp;&nbsp;
-  <img src="screenshots/screenshot_5.png" width="180" style="border-radius:12px"/>
+  <img width="150" height="1356" alt="Image" src="https://github.com/user-attachments/assets/b578f664-43ed-409a-b9c0-bfb82e35611e" />
+   &nbsp;&nbsp;
+  <img width="150" height="1356" alt="Image" src="https://github.com/user-attachments/assets/d85037a7-e2d1-4db1-89d7-8a144c3434e2" />`
 </p>
 
 <p align="center">
@@ -143,11 +145,13 @@ uiState = uiState.copy(
 
 | Screenshot | Keterangan |
 |------------|------------|
-| `screenshot_1.png` | Tampilan profil utama — light mode |
-| `screenshot_2.png` | Tampilan profil utama — dark mode |
-| `screenshot_3.png` | Kontak ditampilkan (`AnimatedVisibility`) |
-| `screenshot_4.png` | Form edit profil |
-| `screenshot_5.png` | Validasi error saat nama dikosongkan |
+| <img width="200" height="1280" alt="Image" src="https://github.com/user-attachments/assets/cbbc1397-a1d5-49f3-9977-d36ed877296f" /> | Tampilan profil utama — light mode |
+| <img width="200" height="1280" alt="Image" src="https://github.com/user-attachments/assets/7f868aec-b0fa-4fb9-9626-0bd698f52b25" /> | Tampilan profil utama — dark mode |
+| <img width="200" height="1280" alt="Image" src="https://github.com/user-attachments/assets/0fc425fb-1486-4648-84db-95c4c4fb9aec" /> | Kontak ditampilkan — light mode |
+| <img width="200" height="1356" alt="Image" src="https://github.com/user-attachments/assets/b218fd6c-2104-4bec-b03a-2f051a85e842" /> | Kontak ditampilkan — dark mode |
+| <img width="200" height="1280" alt="Image" src="https://github.com/user-attachments/assets/326aa006-55a5-46a4-892c-913faf2191e2" /> | Form edit profil |
+| <img width="200" height="1356" alt="Image" src="https://github.com/user-attachments/assets/b578f664-43ed-409a-b9c0-bfb82e35611e" /> | Validasi error saat nama dikosongkan |
+| <img width="200" height="1356" alt="Image" src="https://github.com/user-attachments/assets/d85037a7-e2d1-4db1-89d7-8a144c3434e2" />` | Data Profil berhasil diedit |
 
 ---
 
